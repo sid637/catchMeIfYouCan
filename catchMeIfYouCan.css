@@ -1,0 +1,18 @@
+body{
+    background: linear-gradient(to left, #e0eafc, #cfdef3); 
+}
+#box {
+    width: 10vw;
+    height: 10vw;
+    background: linear-gradient(to left, #000000, #434343);
+    cursor: pointer;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#box p {
+    font-size: 1.7vw;
+    color: white;
+}
